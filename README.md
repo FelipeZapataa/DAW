@@ -5,7 +5,7 @@ Este repositorio contiene los códigos y recursos utilizados durante las clases 
 ### 📁 Estructura del repositorio
 
 - `clase1/semana1/`: Códigos y ejercicios de la primera semana.
-- `clase2/semana1/`: Códigos y ejercicios de la segunda semana.
+- `clase1/semana2/`: Códigos y ejercicios de la segunda semana.
 
   
 Cada carpeta contiene los scripts o notebooks organizados por fecha o tema.
